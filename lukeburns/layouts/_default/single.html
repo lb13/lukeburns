@@ -1,0 +1,16 @@
+<html>
+    {{ partial "head.html" . }}
+
+    <body>
+        <div class="container is-fluid" style="padding-left: 10%; padding-right: 10%">
+
+            <div class="content pt-6">
+                {{ partial "header.html" . }}
+                
+                {{ .Content }}
+            </div><!-- End of Content -->
+            
+        </div><!-- End of Container -->
+
+    </body>
+</html>

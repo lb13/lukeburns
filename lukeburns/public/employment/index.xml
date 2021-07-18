@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Employment on Luke Burns</title>
+    <link>http://example.org/employment/</link>
+    <description>Recent content in Employment on Luke Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/employment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>College Information Services Officer</title>
+      <link>http://example.org/employment/201607-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201607-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Advisor</title>
+      <link>http://example.org/employment/201211-source-contact-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201211-source-contact-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Representative</title>
+      <link>http://example.org/employment/200707-blockbuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200707-blockbuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Representative</title>
+      <link>http://example.org/employment/201007-blockbuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201007-blockbuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holiday Sales Representative</title>
+      <link>http://example.org/employment/201106-bourne-leisure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201106-bourne-leisure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information and Enrolment Assistant</title>
+      <link>http://example.org/employment/201501-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201501-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine</title>
+      <link>http://example.org/employment/200501-royal-marines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200501-royal-marines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIS Manager</title>
+      <link>http://example.org/employment/201908-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201908-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receptionist</title>
+      <link>http://example.org/employment/201111-cofton-country-holidays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201111-cofton-country-holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales Assistant</title>
+      <link>http://example.org/employment/200207-primark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200207-primark/</guid>
+      <description>My first ever job. Ever. Unless you count my paper round.</description>
+    </item>
+    
+    <item>
+      <title>Sales Assistant</title>
+      <link>http://example.org/employment/200310-ryman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200310-ryman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Assistant</title>
+      <link>http://example.org/employment/201401-lidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201401-lidl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Assistant</title>
+      <link>http://example.org/employment/201407-lidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201407-lidl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telephone Agent</title>
+      <link>http://example.org/employment/200509-screwfix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200509-screwfix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volunteer</title>
+      <link>http://example.org/employment/201004-salvation-army/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201004-salvation-army/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

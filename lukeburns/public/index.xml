@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luke Burns</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Luke Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/blog/hello/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/hello/</guid>
+      <description>Hi there.</description>
+    </item>
+    
+    <item>
+      <title>Aberystwyth University</title>
+      <link>http://example.org/education/2008-aberystwyth-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2008-aberystwyth-university/</guid>
+      <description> Certificate of Higher Education in Microbiology  </description>
+    </item>
+    
+    <item>
+      <title>Buckler&#39;s Mead Community School</title>
+      <link>http://example.org/education/1997-bucklers-mead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/1997-bucklers-mead/</guid>
+      <description> GCSE Science (double award) – AA GCSE English Language – B GCSE English Literature – B GCSE Mathematics – B GCSE Media Studies – B GCSE History – B GCSE Statistics – C GCSE German – C GCSE Resistant Materials – D  </description>
+    </item>
+    
+    <item>
+      <title>College Information Services Officer</title>
+      <link>http://example.org/employment/201607-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201607-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Advisor</title>
+      <link>http://example.org/employment/201211-source-contact-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201211-source-contact-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Representative</title>
+      <link>http://example.org/employment/200707-blockbuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200707-blockbuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Service Representative</title>
+      <link>http://example.org/employment/201007-blockbuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201007-blockbuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holiday Sales Representative</title>
+      <link>http://example.org/employment/201106-bourne-leisure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201106-bourne-leisure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information and Enrolment Assistant</title>
+      <link>http://example.org/employment/201501-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201501-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine</title>
+      <link>http://example.org/employment/200501-royal-marines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200501-royal-marines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIS Manager</title>
+      <link>http://example.org/employment/201908-bath-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201908-bath-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receptionist</title>
+      <link>http://example.org/employment/201111-cofton-country-holidays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201111-cofton-country-holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales Assistant</title>
+      <link>http://example.org/employment/200207-primark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200207-primark/</guid>
+      <description>My first ever job. Ever. Unless you count my paper round.</description>
+    </item>
+    
+    <item>
+      <title>Sales Assistant</title>
+      <link>http://example.org/employment/200310-ryman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200310-ryman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Assistant</title>
+      <link>http://example.org/employment/201401-lidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201401-lidl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Assistant</title>
+      <link>http://example.org/employment/201407-lidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201407-lidl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telephone Agent</title>
+      <link>http://example.org/employment/200509-screwfix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/200509-screwfix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open University</title>
+      <link>http://example.org/education/2015-open-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2015-open-university/</guid>
+      <description> Bachelor of Arts (Honours) in Humanities (First Class)  </description>
+    </item>
+    
+    <item>
+      <title>Volunteer</title>
+      <link>http://example.org/employment/201004-salvation-army/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/employment/201004-salvation-army/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeovil College</title>
+      <link>http://example.org/education/2002-yeovil-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2002-yeovil-college/</guid>
+      <description> A/S Level Sociology – C A Level Biology – C A Level English Language – E A Level Philosophy – E  </description>
+    </item>
+    
+  </channel>
+</rss>

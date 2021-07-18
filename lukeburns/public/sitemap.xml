@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/hello/</loc>
+    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/2008-aberystwyth-university/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/1997-bucklers-mead/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201607-bath-college/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201211-source-contact-management/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/200707-blockbuster/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201007-blockbuster/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201106-bourne-leisure/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201501-bath-college/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/200501-royal-marines/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201908-bath-college/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201111-cofton-country-holidays/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/200207-primark/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/200310-ryman/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201401-lidl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201407-lidl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/200509-screwfix/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/2015-open-university/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/employment/201004-salvation-army/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/2002-yeovil-college/</loc>
+  </url>
+  
+</urlset>

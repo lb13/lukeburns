@@ -1,0 +1,28 @@
+<html>
+    {{ partial "head.html" . }}
+
+    <body>
+        <div class="container is-fluid" style="padding-left: 10%; padding-right: 10%">
+
+            <div class="content pt-6">
+                {{ partial "header.html" . }}
+                
+                {{ range (sort .Pages ".Params.SortDate" "desc") }}
+                <div class="card mb-5 item">
+                    <div class="card-content">
+                        <p class="subtitle has-text-grey small">{{ .Params.Start }} to {{ .Params.End }}</p>
+                        <p>
+                        <span class="title">{{ .Title }}</span><br>{{ .Params.Qualifications }}
+                        </p>
+                        <p>
+                        <a href="{{ .Permalink }}">Read more</a>
+                        </p>
+                    </div>
+                </div>
+                {{ end }}
+            </div><!-- End of Content -->
+            
+        </div><!-- End of Container -->
+
+    </body>
+</html>

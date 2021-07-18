@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Luke Burns</title>
+    <link>http://example.org/education/</link>
+    <description>Recent content in Education on Luke Burns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aberystwyth University</title>
+      <link>http://example.org/education/2008-aberystwyth-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2008-aberystwyth-university/</guid>
+      <description> Certificate of Higher Education in Microbiology  </description>
+    </item>
+    
+    <item>
+      <title>Buckler&#39;s Mead Community School</title>
+      <link>http://example.org/education/1997-bucklers-mead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/1997-bucklers-mead/</guid>
+      <description> GCSE Science (double award) – AA GCSE English Language – B GCSE English Literature – B GCSE Mathematics – B GCSE Media Studies – B GCSE History – B GCSE Statistics – C GCSE German – C GCSE Resistant Materials – D  </description>
+    </item>
+    
+    <item>
+      <title>The Open University</title>
+      <link>http://example.org/education/2015-open-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2015-open-university/</guid>
+      <description> Bachelor of Arts (Honours) in Humanities (First Class)  </description>
+    </item>
+    
+    <item>
+      <title>Yeovil College</title>
+      <link>http://example.org/education/2002-yeovil-college/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/2002-yeovil-college/</guid>
+      <description> A/S Level Sociology – C A Level Biology – C A Level English Language – E A Level Philosophy – E  </description>
+    </item>
+    
+  </channel>
+</rss>
